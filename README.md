@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=welcome&fontSize=90"/>
+<img rc="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=welcome&fontSize=90&rotate=50"/>
 <p align="center">[ SNS ]</p>
 
 <p align="center">
