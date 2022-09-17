@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.instagram.com/znsojtf" target="_blank"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://jnsodevelop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-9cf?style=flat-square&logo=tistory&logoColor=white"/></a>
-</p></br></br>
+</p></br></br></br></br>
 
 <p align="center">🔭 My Stack 🔭</p>
 <p align="center">
