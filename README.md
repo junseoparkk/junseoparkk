@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
-- Spring bott
+- Spring boot
 
 <!--
 **JunseoParKK/JunseoParKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
