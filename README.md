@@ -13,8 +13,9 @@
  <img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=C%2B%2b&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Eclipse IDE&logoColor=white"/></br>
  <img src="https://img.shields.io/badge/HTML-green?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=CSS3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <!--
