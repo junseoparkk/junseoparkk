@@ -18,6 +18,7 @@
  <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+Hi, I'm studying to be back-end developer
 <!--
 **JunseoParKK/JunseoParKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
