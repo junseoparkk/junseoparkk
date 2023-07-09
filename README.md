@@ -19,7 +19,7 @@
 </p>
 
 
-[ Contact ]
+[ Contact Me ]
 <br>
 **blog**
 https://jnsodevelop.tistory.com/
