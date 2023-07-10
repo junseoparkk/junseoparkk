@@ -19,8 +19,8 @@
 </p>
 
 
-[ Contact Me ]
-<br>
+💬 Contact Me 
+<br><br>
 **blog**
 https://jnsodevelop.tistory.com/
 
