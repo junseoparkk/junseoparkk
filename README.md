@@ -27,12 +27,12 @@
 </div>
 <div>
  <p>< 💬 Contact Me ></p>
- **blog**
+ blog
 </br>
  https://jnsodevelop.tistory.com
 </br></br>
 
- **email**
+ email
 </br>
  wnstj444@naver.com
 </div>
