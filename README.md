@@ -22,18 +22,18 @@
 <p>📝 My Languages 📝</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseoparkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br></br>
 
-
-< 💬 Contact Me >
-<br><br>
-**blog**
+</div>
+<div>
+ <p>< 💬 Contact Me ></p>
+ **blog**
 <br>
-https://jnsodevelop.tistory.com/
+ https://jnsodevelop.tistory.com/
 
-**email**
+ **email**
 <br>
-wnstj444@naver.com
-
+ wnstj444@naver.com
 </div>
 
 <!--
