@@ -28,11 +28,12 @@
 <div>
  <p>< 💬 Contact Me ></p>
  **blog**
-<br>
- https://jnsodevelop.tistory.com/
+</br>
+ https://jnsodevelop.tistory.com
+</br></br>
 
  **email**
-<br>
+</br>
  wnstj444@naver.com
 </div>
 
