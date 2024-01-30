@@ -19,10 +19,13 @@
  <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=MySQL&logoColor=white"/>
 </br></br></br>
 
-<p>📝 My Languages 📝</p>
-
+<div>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseoparkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</br></br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj444)](https://solved.ac/wnstj444/)
+</div>
+
 
 </div>
 <div>
