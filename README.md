@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/HTML-green?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-purple?style=flat-square&logo=Javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white">
  <br>
  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/>
