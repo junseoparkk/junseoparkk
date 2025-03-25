@@ -17,7 +17,9 @@
 - **KMOU** - Major in Data Science <br/>
 *Mar 2018 - Feb 2024*
 
-<br/>
+### Projects
+- *[우리들의 코스, Wooco](https://github.com/team-joytas/wooco-be)*
+- *[추억 공유 플랫폼, DAO](https://github.com/junseoparkk/10-team-Joytas-dao-be)*
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=EclipseIDE&logoColor=white)
