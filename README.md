@@ -9,7 +9,7 @@
 
 <br/>
 
-### Activities & Educations
+### Educations
 
 - **Kakao Tech Bootcamp** - Cloud Native in Jeju <br/>
 *April 2024 - October 2024*
