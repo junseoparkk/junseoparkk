@@ -23,7 +23,7 @@
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=EclipseIDE&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=flat-square&logo=EclipseIDE&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-green?style=flat-square&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-blue?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-darkred?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-darkblue?style=flat-square&logo=Docker&logoColor=white)
